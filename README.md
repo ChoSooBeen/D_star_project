@@ -9,5 +9,6 @@
 > > 1. 주어진 데이터 분석하기
 > > > 1.1 제공된 데이터 유형 분석 및 모델 찾아보기(https://github.com/ChoSooBeen/D_star_project/blob/main/%ED%95%9C%EA%B5%AD%EC%88%98%EB%AA%A9%EC%9B%90%EC%A0%95%EC%9B%90%EA%B4%80%EB%A6%AC%EC%9B%90_data_%EB%B6%84%EC%84%9D.docx)        
 > > > 1.2 데이터 현황 파악하기: class 당 이미지 수 맞추기! (https://github.com/ChoSooBeen/D_star_project/blob/main/train_label(%ED%98%84%ED%99%A9%ED%8C%8C%EC%95%85).xlsx)
-> > 2. 멘토링 참가하기          
+> > 2. 멘토링 참가하기
+> > > 2.1 1차 멘토링(https://github.com/ChoSooBeen/D_star_project/tree/main/first_mentoring)
 > > 3. 데이터 증강시키기
