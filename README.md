@@ -12,4 +12,4 @@
 > > 2. 멘토링 참가하기
 > > > 2.1 1차 멘토링(https://github.com/ChoSooBeen/D_star_project/tree/main/first_mentoring)
 > > 3. 데이터 증강시키기
-> > > colab - D_star4.ipynb~~(용량이 커서 안올라감, 후에 정리해서 올림)(https://colab.research.google.com/drive/1oO8z-dUynOiMFDGgoVsNvfnWUYBPzDfR#scrollTo=qMvBn4uWntF8)~~          https://github.com/ChoSooBeen/D_star_project/blob/main/D_star4.ipynb
+> > > colab - D_star4.ipynb ~~(용량이 커서 안올라감, 후에 정리해서 올림)(https://colab.research.google.com/drive/1oO8z-dUynOiMFDGgoVsNvfnWUYBPzDfR#scrollTo=qMvBn4uWntF8)~~          https://github.com/ChoSooBeen/D_star_project/blob/main/D_star4.ipynb
