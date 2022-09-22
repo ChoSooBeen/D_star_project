@@ -13,7 +13,7 @@
 > > > 2.1 1차 멘토링(https://github.com/ChoSooBeen/D_star_project/tree/main/first_mentoring)     
 > > > 2.2 2차 멘토링
 > > 3. 데이터 증강시키기
-> > > colab - D_star4.ipynb ~~(용량이 커서 안올라감, 후에 정리해서 올림)(https://colab.research.google.com/drive/1oO8z-dUynOiMFDGgoVsNvfnWUYBPzDfR#scrollTo=qMvBn4uWntF8)~~          https://github.com/ChoSooBeen/D_star_project/blob/main/D_star4.ipynb   **<2022.09.19 각 클래스별 100장 이상씩 증강완료>**
+> > > colab - D_star4.ipynb ~~(용량이 커서 안올라감, 후에 정리해서 올림)~~          https://github.com/ChoSooBeen/D_star_project/blob/main/D_star4.ipynb   **<2022.09.19 각 클래스별 100장 이상씩 증강완료>**
 > > 4. dataset 만들기
 > > > 2022.09.20 레이블별 파일 생성 완료 : 데이터가 너무 많아서 구글 드라이브와 업로드 시간차가 큼    
 > > > 2022.09.21 클래스별 이미지 분류 (https://github.com/ChoSooBeen/D_star_project/blob/main/D_star_5.ipynb) 
