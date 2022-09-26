@@ -23,5 +23,6 @@
 > > 5. 모델 구현
 > > > + 2022.09.22 ~~1차 ResNet50 모델 구현 (실패) https://sun-daughter-837.notion.site/1-ab6415fc6f7d4207b026b0177c258b1c~~     
 > > > + **2022.09.23 2차 모델 구현(keras.resnet50 라이브러리)**   https://github.com/ChoSooBeen/D_star_project/blob/main/D_star8.ipynb    
-> > >   + class 이름을 한글이 아닌 숫자로 변경   (https://github.com/ChoSooBeen/D_star_project/blob/main/D_star9.ipynb)
+> > >   + class 이름을 한글이 아닌 숫자로 변경   (https://github.com/ChoSooBeen/D_star_project/blob/main/D_star9.ipynb)    
+> > > + 2022.09.26 ~~3차 모델 구현(2차모델 보완 --> 실패)~~
 > > 6. notion 프로젝트 정리 https://sun-daughter-837.notion.site/432109fa7df94a50b01af80e31f28b8a
