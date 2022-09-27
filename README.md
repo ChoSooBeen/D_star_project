@@ -25,5 +25,5 @@
 > > > + **2022.09.23 2차 모델 구현(keras.resnet50 라이브러리)**   https://github.com/ChoSooBeen/D_star_project/blob/main/D_star8.ipynb    
 > > >   + class 이름을 한글이 아닌 숫자로 변경   (https://github.com/ChoSooBeen/D_star_project/blob/main/D_star9.ipynb)    
 > > > + 2022.09.26 ~~3차 모델 구현(2차모델 보완 --> 실패) https://github.com/ChoSooBeen/D_star_project/blob/main/D_star10.ipynb~~
-> > > + 2022.09.27 4차 모델 구현(CNN 사용해보았다.) --> 학습은 된거 같고 정확도도 나쁘지 않은 것 같은데 이것을 어떻게 원하는 결과를 보여줄 수 있도록 하는지 고민할 필요가 있다.   https://github.com/ChoSooBeen/D_star_project/blob/main/D_star12.ipynb
+> > > + **2022.09.27 4차 모델 구현(CNN 사용해보았다.)** --> 학습은 된거 같고 정확도도 나쁘지 않은 것 같은데 이것을 어떻게 원하는 결과를 보여줄 수 있도록 하는지 고민할 필요가 있다.   https://github.com/ChoSooBeen/D_star_project/blob/main/D_star12.ipynb
 > > 6. notion 프로젝트 정리 https://sun-daughter-837.notion.site/432109fa7df94a50b01af80e31f28b8a
