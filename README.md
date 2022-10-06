@@ -29,5 +29,6 @@
 > > > + [**2022.09.28 5차 모델 구현(CNN 사용 및 사전학습 모델 사용)** --> 어느정도 코드에 대한 이해를 했고 모델도 90%정도의 정확도를 보였다. 이를 응용해서 원하는 결과 형식으로 나오도록 바꿔야한다.](https://github.com/ChoSooBeen/D_star_project/blob/main/D_star13.ipynb)    
 > > > + **2022.09.29 모델 보완(원하는 출력값 형식 맞추기)** --> colab 환경 상 GPU를 쓸 수 있는 양이 정해져 있어 코드를 짜보고 완성해보지 못함ㅠㅠ    
 > > > + [**2022.09.30 어제 코드를 colab으로 돌리다가 시간 제한으로 끊겼다.** --> 주피터 노트북으로 느리더라도 하루종일 돌리거나 모델 저장 방법에 대해 공부해야겠다.](https://github.com/ChoSooBeen/D_star_project/blob/main/D_star14.ipynb)     
+> > 6. test
 > > > + [**2022.10.06 전날 모델을 돌려두고 answer sheet을 작성해보았다.** --> 1차 확인](https://github.com/ChoSooBeen/D_star_project/blob/main/answer.csv)   
-> > 6. [notion 프로젝트 정리](https://sun-daughter-837.notion.site/432109fa7df94a50b01af80e31f28b8a)
+> > 7. [notion 프로젝트 정리](https://sun-daughter-837.notion.site/432109fa7df94a50b01af80e31f28b8a)
