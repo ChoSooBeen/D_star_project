@@ -33,4 +33,5 @@
 > > 6. test
 > > > + [**2022.10.06 전날 모델을 돌려두고 answer sheet을 작성해보았다.** --> 1차 확인 : 약 49점](https://github.com/ChoSooBeen/D_star_project/blob/main/answer.csv)     
 > > > + [**2022.10.11 dataset 만들 때 데이터 증강기법 추가** --> 2차 확인 : 약 49점 --> 그러나 1차때보다 약간 감소함](https://github.com/ChoSooBeen/D_star_project/blob/main/answer2.csv)     
+> > > + + [2차 모델]
 > > 7. [notion 프로젝트 정리](https://sun-daughter-837.notion.site/432109fa7df94a50b01af80e31f28b8a)
