@@ -31,5 +31,6 @@
 > > > + [**2022.09.30 어제 코드를 colab으로 돌리다가 시간 제한으로 끊겼다.** --> 주피터 노트북으로 느리더라도 하루종일 돌리거나 모델 저장 방법에 대해 공부해야겠다.](https://github.com/ChoSooBeen/D_star_project/blob/main/D_star14.ipynb)     
 > > > + [**2022.10.07 1차 test 후 데이터 증강을 위해 모델 코드를 약간 변형했다.**](https://sun-daughter-837.notion.site/2-Dataset-570e4f66f6df4eeea812882621cad9bb)    
 > > 6. test
-> > > + [**2022.10.06 전날 모델을 돌려두고 answer sheet을 작성해보았다.** --> 1차 확인 : 약 49점](https://github.com/ChoSooBeen/D_star_project/blob/main/answer.csv)   
+> > > + [**2022.10.06 전날 모델을 돌려두고 answer sheet을 작성해보았다.** --> 1차 확인 : 약 49점](https://github.com/ChoSooBeen/D_star_project/blob/main/answer.csv)     
+> > > + [**2022.10.11 dataset 만들 때 데이터 증강기법 추가** --> 2차 확인 : 약 49점 --> 그러나 1차때보다 약간 감소함](https://github.com/ChoSooBeen/D_star_project/blob/main/answer2.csv)     
 > > 7. [notion 프로젝트 정리](https://sun-daughter-837.notion.site/432109fa7df94a50b01af80e31f28b8a)
