@@ -13,7 +13,7 @@
 > > > 1.2 [데이터 현황 파악하기: class 당 이미지 수 맞추기! ](https://github.com/ChoSooBeen/D_star_project/blob/main/train_label(%ED%98%84%ED%99%A9%ED%8C%8C%EC%95%85).xlsx)
 > > 2. 멘토링 참가하기
 > > > 2.1 [1차 멘토링](https://github.com/ChoSooBeen/D_star_project/tree/main/first_mentoring)     
-> > > 2.2 2차 멘토링
+> > > 2.2 [2차 멘토링](https://github.com/ChoSooBeen/D_star_project/tree/main/second_mentoring)
 > > 3. 데이터 증강시키기    
 > > > colab - D_star4.ipynb ~~(용량이 커서 안올라감, 후에 정리해서 올림)~~        
 > > > + [**2022.09.19 각 클래스별 100장 이상씩 증강완료**](https://github.com/ChoSooBeen/D_star_project/blob/main/D_star4.ipynb)   
